@@ -3,7 +3,8 @@ package golang
 import (
 	"github.com/spf13/viper"
 
-	ga "github.com/merico-dev/stream/internal/pkg/plugin/githubactions"
+	ga "github.com/merico-dev/stream/internal/pkg/plugin/common/githubactions"
+
 	"github.com/merico-dev/stream/pkg/util/github"
 	"github.com/merico-dev/stream/pkg/util/log"
 )

@@ -3,7 +3,7 @@ package python
 import (
 	"fmt"
 
-	ga "github.com/merico-dev/stream/internal/pkg/plugin/githubactions"
+	ga "github.com/merico-dev/stream/internal/pkg/plugin/common/githubactions"
 )
 
 // TODO(daniel-hutao): Options should keep as same as other plugins named Param

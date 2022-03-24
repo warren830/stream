@@ -3,9 +3,10 @@ package nodejs
 import (
 	"fmt"
 
+	"github.com/merico-dev/stream/internal/pkg/plugin/common/githubactions"
+
 	"github.com/mitchellh/mapstructure"
 
-	"github.com/merico-dev/stream/internal/pkg/plugin/githubactions"
 	"github.com/merico-dev/stream/pkg/util/github"
 	"github.com/merico-dev/stream/pkg/util/log"
 )
